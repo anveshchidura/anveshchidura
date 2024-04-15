@@ -9,11 +9,6 @@ I'm a Computer Science grad student at UNC Charlotte with a focus on web applica
 - **Bachelor of Technology in Computer Science**, Mahindra Ecole Centrale, GPA: 7.6/10.0, Aug 2016 - Sep 2020
   - Key Courses: Operating Systems, Data Structures and Algorithms, Computer Networks, Web Programming
 
-## Experience
-- **Decision Analytics Associate**, ZS Associates, India, Sep 2020 – Feb 2022
-- **Software Engineer Intern**, Nisum Technologies, India, Jun 2019 – Jul 2019
-- **Software Engineer Intern**, Cybermotion Technologies, India, May 2018 - Jun 2018
-
 ## Skills
 - Programming Languages: JavaScript (ES5/ES6), Python, C++, C, SQL, HTML, CSS, JSON, Java
 - Frameworks: React.js, Node.js, Express.js, Redux, MySQL, TensorFlow, Keras
