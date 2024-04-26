@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Anvesh Chidura
 
 ## About Me
-I'm a Computer Science grad student at UNC Charlotte with a focus on web application development and data analysis, bringing two years of experience in the field and a strong drive to create tech-driven solutions
+I'm a Computer Science grad student at UNC Charlotte with a focus on web application development and data analysis, bringing three years of experience in the field and a strong drive to create tech-driven solutions
 
 ## Education
 - **Master of Science in Computer Science**, University of North Carolina at Charlotte, GPA: 3.75/4.0, Jan 2023 - May 2024
