@@ -6,8 +6,6 @@ I'm a Computer Science grad student at UNC Charlotte with a focus on web applica
 ## Education
 - **Master of Science in Computer Science**, University of North Carolina at Charlotte, GPA: 3.8/4.0, Jan 2023 - May 2024
   - Key Courses: Data Structures and Algorithms, Software System Design Implementation, Database Systems, Big Data Analytics
-- **Bachelor of Technology in Computer Science**, Mahindra Ecole Centrale, GPA: 7.6/10.0, Aug 2016 - Sep 2020
-  - Key Courses: Operating Systems, Data Structures and Algorithms, Computer Networks, Web Programming
 
 ## Skills
 - Programming Languages: JavaScript (ES5/ES6), Python, C++, C, SQL, HTML, CSS, JSON, Java
