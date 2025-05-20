@@ -16,9 +16,5 @@ I'm a Computer Science grad student at UNC Charlotte with a focus on web applica
 - Skills: Front-end, Agile, Back-end, CI/CD
 - Reporting & Visualization Tools: MS Excel, Tableau, Power BI, Google Sheets, Looker, Microsoft Office
 
-## Contact Me
-- 📞 517-512-9781
-- 📧 anvesh.chidura27@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anveshchidura/) | [GitHub](https://github.com/anveshchidura) | [Portfolio](https://anveshchidura.netlify.app/)
 
 I'm excited to explore new opportunities for collaboration and innovation. Feel free to reach out!
